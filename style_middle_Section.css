@@ -1,0 +1,17 @@
+.middle-section{
+    background-color: #fff;
+    text-align: center;
+    border: 1px solid red;
+    font-family: 'Ubuntu', sans-serif;
+    font-family: 'Ubuntu', sans-serif;
+    padding: 50px 70px;
+    font-style: italic;
+    line-height: 1.50;
+    font-size: 1.30rem;
+}
+
+.middles-section-btn{
+    font-size: 0.96rem;
+    border-radius: 1rem;
+    background-color: rgb(245, 36, 83);
+}
